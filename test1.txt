@@ -1,0 +1,7 @@
+tis ia file
+nothing to commit, working tree clean
+PS C:\Users\C117741\Desktop\YOUTUBE GIT\githubemc1> git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree 
